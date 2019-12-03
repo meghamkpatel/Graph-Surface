@@ -22,6 +22,7 @@
                 android:layout_height="51dp"
                 android:text="Press screen to start!"
                 android:textColor="@color/colorPrimaryDark"
+                android:textStyle="bold"
                 android:textAlignment="center" />
         </LinearLayout>
 
